@@ -4,23 +4,26 @@
 ## Baseline Skill Set
 
 ### Junior
-#### Linux
-- Commands: ls, dir, pwd, ps, sed, curl, wget
+#### Communication
+- Proficient use of chat clients such as Slack, Discord, [insert others]
+- Proficient use of email communication technologies such as 
+- Proficient report writing
 
-#### Windows
-- Commands: dir, pwd, cls, 
+#### Report Writing
+- [insert here]
 
 ### Intermediate
 
 ### Senior
 
 ## Top 5 Books
-- Hacking: The Art of Exploitation
-- Black Hat Python: 2nd Edition
-- Ethical Hacking: A Hands-On Introduction
-- The Web Application Hackers Handbook
+- Extreme Ownership
+- Never Split the Difference
+- Difficult Conversations
+- Book 4
 - Book 5
 
 ## Top 5 Courses
 
 ## Top 5 Certifications
+- PME?
