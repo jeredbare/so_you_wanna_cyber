@@ -12,6 +12,9 @@
 #### Report Writing
 - [insert here]
 
+#### Team Management
+- Able to coordinate with front line workers.
+
 ### Intermediate
 
 ### Senior
