@@ -1,21 +1,26 @@
 
-Red Team
+# Red Team
 
-#Baseline Skill Set
-Linux
+## Baseline Skill Set
+
+### Junior
+#### Linux
 - Commands: ls, dir, pwd, ps, sed, curl, wget
 
-Windows
+#### Windows
 - Commands: dir, pwd, cls, 
 
-##Junior
+### Intermediate
 
-##Intermediate
+### Senior
 
-##Senior
+## Top 5 Books
+- Hacking: The Art of Exploitation
+- Black Hat Python: 2nd Edition
+- Ethical Hacking: A Hands-On Introduction
+- The Web Application Hackers Handbook
+- Book 5
 
-##Top 5 Books
+## Top 5 Courses
 
-##Top 5 Courses
-
-##Top 5 Certifications
+## Top 5 Certifications
