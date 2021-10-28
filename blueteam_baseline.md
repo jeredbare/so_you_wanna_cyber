@@ -4,10 +4,10 @@
 ## Baseline Skill Set
 
 ### Junior
-#### Linux
+#### **Linux**
 - Commands: ls, dir, pwd, ps, sed, curl, wget
 
-#### Windows
+#### **Windows**
 - Commands: dir, pwd, cls, 
 
 ### Intermediate
