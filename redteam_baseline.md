@@ -5,10 +5,16 @@
 
 ### Junior
 #### Linux
-- Commands: ls, dir, pwd, ps, sed, curl, wget
+- Bash Commands: ls, dir, pwd, ps, sed, curl, wget, ssh, netcat (nc)
+- Editors: Nano, VIM
+- Basic structure of a Linux file system: /var /etc /log /boot
+- 
 
 #### Windows
-- Commands: dir, pwd, cls, 
+- Command Prompt Commands: dir, pwd, cls, 
+- Powershell Commands: 
+- Windows Firewall
+- Windows Defender
 
 ### Intermediate
 
